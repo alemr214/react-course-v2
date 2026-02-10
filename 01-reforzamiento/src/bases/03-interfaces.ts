@@ -1,3 +1,4 @@
+// Definir una interfaz para describir la forma de un objeto
 interface Person {
     nombre: string;
     edad: number;
@@ -10,6 +11,7 @@ interface Mascota {
     tipo: string;
 }
 
+// Obedece las reglas de la interfaz Person
 const persona: Person = {
     nombre: "Alejandro",
     edad: 30,
