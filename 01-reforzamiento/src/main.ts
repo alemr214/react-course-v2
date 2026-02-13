@@ -6,7 +6,9 @@ import "./style.css";
 // import "./bases/05-functions";
 // import "./bases/06-obj-destructure";
 // import './bases/07-array-destructure';
-import "./bases/08-work-destructure";
+// import "./bases/08-work-destructure";
+// import "./bases/09-imp-exp";
+import "./bases/10-work-imp-exp";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
