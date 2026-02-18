@@ -8,7 +8,10 @@ import "./style.css";
 // import './bases/07-array-destructure';
 // import "./bases/08-work-destructure";
 // import "./bases/09-imp-exp";
-import "./bases/10-work-imp-exp";
+// import "./bases/10-work-imp-exp";
+// import "./bases/11-promises";
+// import "./bases/12-fetch-api";
+import "./bases/13-async-await";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
